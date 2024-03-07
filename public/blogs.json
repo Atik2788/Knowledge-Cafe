@@ -1,0 +1,53 @@
+[
+    {
+      "id": "12345",
+      "title": "The Mystery of Crimson Manor",
+      "cover": "https://i.ibb.co/Dk02CG3/2337097.jpg",
+      "author": "Eleanor Sinclair",
+      "author_img": "https://atik-ahmed.imgbb.com/?page=2&seek=1b96YhT",
+      "posted_date": "1 March 2024 (5 days ago)",
+      "reading_time": 60,
+      "hashtags": ["#mystery", "#thriller", "#suspense"]
+    },
+    {
+      "id": "23456",
+      "title": "Beyond the Horizon",
+      "cover": "https://i.ibb.co/Dk02CG3/2337097.jpg",
+      "author": "Jonathan Parker",
+      "author_img": "https://atik-ahmed.imgbb.com/?page=2&seek=1b96YhT",
+      "posted_date": "15 February 2024 (20 days ago)",
+      "reading_time": 45,
+      "hashtags": ["#adventure", "#exploration", "#journey"]
+    },
+    {
+      "id": "34567",
+      "title": "Cooking with Passion",
+      "cover": "https://i.ibb.co/Dk02CG3/2337097.jpg",
+      "author": "Sophie Roberts",
+      "author_img": "https://atik-ahmed.imgbb.com/?page=2&seek=1b96YhT",
+      "posted_date": "5 April 2024 (yesterday)",
+      "reading_time": 30,
+      "hashtags": ["#cooking", "#recipes", "#food"]
+    },
+    {
+      "id": "45678",
+      "title": "The Secret Garden",
+      "cover": "https://i.ibb.co/Dk02CG3/2337097.jpg",
+      "author": "Oliver Thompson",
+      "author_img": "https://atik-ahmed.imgbb.com/?page=2&seek=1b96YhT",
+      "posted_date": "20 January 2024 (2 months ago)",
+      "reading_time": 55,
+      "hashtags": ["#fiction", "#gardening", "#mystery"]
+    },
+    {
+      "id": "56789",
+      "title": "Love in Venice",
+      "cover": "https://i.ibb.co/Dk02CG3/2337097.jpg",
+      "author": "Isabella Rossi",
+      "author_img": "https://atik-ahmed.imgbb.com/?page=2&seek=1b96YhT",
+      "posted_date": "10 May 2024 (2 days ago)",
+      "reading_time": 40,
+      "hashtags": ["#romance", "#venice", "#love"]
+    }
+  ]
+  
