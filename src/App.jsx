@@ -13,13 +13,16 @@ const [readingTime, setreadingTime] = useState(0)
 const handleAddToBookmark = blog =>{
   const newBookmarks = [...bookmarks, blog]
   setBookmarks(newBookmarks)
-  // console.log(bookmarks);
+  // console.log(bookmarks); 
 }
 
-const handleMarkAsRead = time =>{
+const handleMarkAsRead = (id, time) =>{
   const newReadTime = readingTime + time;
   setreadingTime(newReadTime)
-  // console.log(readingTime);
+  // console.log(id);
+  const remainingBookmarks = bookmarks.filter(bookmark => bookmark.id !== id)
+  setBookmarks(remainingBookmarks)
+ 
 }
 
   return (

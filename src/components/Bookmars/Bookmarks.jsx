@@ -21,7 +21,7 @@ const Bookmarks = ({bookmarks, readingTime}) => {
 };
 
 Bookmarks.propTypes ={
-    bookmarks: PropTypes.object.isRequired,
+    bookmarks: PropTypes.array.isRequired,
     readingTime: PropTypes.number
 }
 
